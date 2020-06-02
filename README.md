@@ -18,8 +18,8 @@ https://www.facebook.com/julianguillermo.zapatarugeles.1
 *******************************************
 
 *Instrucciones:
-   -Ingresa el nombre de la cancion o video
-   -Selecciona el formato
-   -Listo !
+1) Ingresa el nombre de la cancion o video
+2) Selecciona el formato
+3) Listo !
    
 así de facil !
